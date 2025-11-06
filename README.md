@@ -26,7 +26,7 @@ Finds the first parent directory that contains a given file or directory.
 
 
 // assuming this is called from a file in a subdirectory of /myprojects/foo which contains .git directory
-var findParentDir = require('find-parent-dir');
+var findParentDir = require('find_parent_dir');
 
 findParentDir(__dirname, '.git', function (err, dir) {
   // has err if some file access error occurred
