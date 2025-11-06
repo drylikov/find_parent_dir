@@ -3,6 +3,7 @@
 
 # find-parent-dir [![build status](https://secure.travis-ci.org/drylikov/find_parent_dir.png)](http://travis-ci.org/drylikov/find_parent_dir)
 
+
 Finds the first parent directory that contains a given file or directory.
 
     npm install find-parent-dir
