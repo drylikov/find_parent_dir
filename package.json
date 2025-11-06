@@ -1,0 +1,36 @@
+
+{
+  "name": "find_parent_dir",
+  "version": "0.3.0",
+  "description": "Finds the first parent directory that contains a given file or directory.",
+  "main": "find-parent-dir.js",
+  "scripts": {
+    "test": "tap test/*.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/drylikov/find_parent_dir.git"
+  },
+  "homepage": "https://github.com/drylikov/find_parent_dir",
+  "dependencies": {},
+  "devDependencies": {
+    "tap": "~0.4.3"
+  },
+  "keywords": [
+    "find",
+    "parent",
+    "dir",
+    "root",
+    "resolve",
+    "walk"
+  ],
+  "author": {
+    "name": "Denis Rylikov",
+    "email": "denis.rylikov@protonmail.com",
+    "url": ""
+  },
+  "license": "MIT",
+  "engine": {
+    "node": ">=0.6"
+  }
+}
