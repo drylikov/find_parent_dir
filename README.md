@@ -3,7 +3,7 @@
 
 
 
-# find-parent-dir [![build status](https://secure.travis-ci.org/drylikov/find_parent_dir.png)](http://travis-ci.org/drylikov/find_parent_dir)
+# find-parent-dir 
 
 
 
